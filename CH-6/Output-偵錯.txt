@@ -1,0 +1,24 @@
+﻿ch6.exe' (Win32): 已載入 'C:\Users\User\Desktop\新增資料夾\CH-6\temp\debug\ch6.exe'。已載入符號。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ntdll.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已卸載 'C:\Windows\SysWOW64\kernel32.dll'
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\KernelBase.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sysfer.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\advapi32.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcrt.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sechost.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\rpcrt4.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sspicli.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\cryptbase.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\bcryptprimitives.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\ProgramData\Symantec\Symantec Endpoint Protection\14.2.760.0000.105\Data\Definitions\BASHDefs\20180918.001\UMEngx86.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\vcruntime140d.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。找不到或無法開啟 PDB 檔案。
+ch6.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel.appcore.dll'。找不到或無法開啟 PDB 檔案。
+0x2194 執行緒以返回碼 0 (0x0) 結束。
+0x33c0 執行緒以返回碼 0 (0x0) 結束。
+0x55c 執行緒以返回碼 0 (0x0) 結束。
+0x2494 執行緒以返回碼 0 (0x0) 結束。
+0x1820 執行緒以返回碼 0 (0x0) 結束。
+'[6968] ch6.exe' 程式以返回碼 0 (0x0) 結束。
